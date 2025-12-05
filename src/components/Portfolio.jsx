@@ -31,7 +31,7 @@ const Portfolio = () => {
       description: 'Full-stack blog application with user authentication, CRUD operations, and post uploads. Built with React.js frontend and Appwrite backend-as-a-service.',
       tech: ['React.js', 'Appwrite', 'JavaScript', 'CSS'],
       category: 'Full Stack',
-      github: 'https://github.com/manojkumarpatil/blog-app',
+      github: 'https://github.com/manojkumarpatil2103/blogApp',
       live: 'https://your-blog-app.vercel.app'
     },
     {
@@ -40,7 +40,7 @@ const Portfolio = () => {
       description: 'Complete video hosting platform with advanced features including authentication, video uploads, social interactions, and subscription system using JWT and bcrypt.',
       tech: ['MERN Stack', 'JWT', 'bcrypt', 'Node.js', 'MongoDB'],
       category: 'Full Stack',
-      github: 'https://github.com/manojkumarpatil/youtube-clone',
+      github: 'https://github.com/manojkumarpatil2103/Video-Tube-Project.git',
       live: 'https://your-youtube-clone.vercel.app'
     },
     {
