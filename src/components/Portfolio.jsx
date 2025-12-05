@@ -18,7 +18,7 @@ const Portfolio = () => {
 
   const skills = {
     'Programming Languages': ['JavaScript', 'Solidity', 'Java', 'C/C++'],
-    'Blockchain / Web3': ['Bitcoin', 'Go-Ethereum', 'ERC-20/721', 'Web3.js','ether.js', 'OpenZeppelin'],
+    'Blockchain / Web3': ['Bitcoin', 'Go-Ethereum', 'ERC-20/721', 'Web3.js','ether.js', 'OpenZeppelin', 'foundry'],
     'Backend': ['MySQL', 'MongoDB', 'RESTful API', 'Node.js', 'Express.js'],
     'Frontend': ['HTML', 'CSS', 'Bootstrap', 'Tailwind', 'React.js'],
     'Tools': ['Git', 'Postman', 'Hardhat', 'Truffle', 'Metamask', 'Ganache']
