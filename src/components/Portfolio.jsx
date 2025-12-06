@@ -39,7 +39,7 @@ const Portfolio = () => {
       "Solidity",
       "Java",
       "C/C++",
-      "Flutter",
+      "Flutter(dart)",
     ],
     "Blockchain / Web3": [
       "Bitcoin",
@@ -82,7 +82,7 @@ const Portfolio = () => {
         "Automated library operations system for book tracking, user management, and transaction records with efficient database integration.",
       tech: ["Java", "MySQL", "Database Design"],
       category: "Backend",
-      github: "https://github.com/manojkumarpatil/library-management",
+      github: null,
       live: null,
     },
   ];
