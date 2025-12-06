@@ -34,7 +34,13 @@ const Portfolio = () => {
   }, []);
 
   const skills = {
-    "Programming Languages": ["JavaScript", "Solidity", "Java", "C/C++"],
+    "Programming Languages": [
+      "JavaScript",
+      "Solidity",
+      "Java",
+      "C/C++",
+      "Flutter",
+    ],
     "Blockchain / Web3": [
       "Bitcoin",
       "Go-Ethereum",
