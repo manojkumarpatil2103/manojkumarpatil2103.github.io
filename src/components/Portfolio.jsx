@@ -17,6 +17,8 @@ import {
   ChevronRight,
 } from "lucide-react";
 import axios from "axios";
+import { HashRouter } from "react-router-dom";
+// Use <HashRouter> instead of <BrowserRouter> in your index.js/App.js
 
 const Portfolio = () => {
   const [activeSection, setActiveSection] = useState("home");
